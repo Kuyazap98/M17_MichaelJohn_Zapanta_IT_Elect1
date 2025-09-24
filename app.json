@@ -1,11 +1,11 @@
 {
   "expo": {
     "name": "M17_MichaelJohn_Zapanta_IT_Elect1",
-<<< MidAct1
+<<<<<<<<< MidAct1
     "slug": "M05_MichaelJohn_Zapanta_IT_Elect1",
 =======
     "slug": "M17_MichaelJohn_Zapanta_IT_Elect1",
->>> main
+>>>>>>>>> main
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
